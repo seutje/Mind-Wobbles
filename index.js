@@ -1,6 +1,7 @@
 /*!
  *
  * @name Mind Wobbles
+ * @inspiration stagas - mind swift
  *
  */
 
